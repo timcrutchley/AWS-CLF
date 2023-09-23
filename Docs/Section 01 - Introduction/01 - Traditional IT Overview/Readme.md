@@ -2,7 +2,7 @@
 
 ## SECTION 01 - INTRODUCTION <br>
 
-### < AWS: CLOUD PRACTIONER ><br>
+### < AWS: CLOUD PRACTITIONER > <br>
 
 ### 09/23/2023 <br>
 

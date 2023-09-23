@@ -2,7 +2,7 @@
 
 ## **START: `09/22/23` END: `0//23`**
 
-### < AWS: CLOUD PRACTIONER ><br>
+### < AWS: CLOUD PRACTITIONER > <br>
 
 <br>
 
