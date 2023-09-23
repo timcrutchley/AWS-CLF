@@ -13,6 +13,7 @@
 ### >>
 
 <br>
+
 ## LESSONS: >>
 
 **01 - [WHY GLOBAL APPLICATIONS]() - `0//2023`**<br>
