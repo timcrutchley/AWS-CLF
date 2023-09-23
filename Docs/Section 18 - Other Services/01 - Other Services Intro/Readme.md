@@ -1,6 +1,6 @@
 # 01 -
 
-## SECTION 01 - <br>
+## SECTION 18 - OTHER SERVICES <br>
 
 ### < AWS: CLOUD PRACTIONER ><br>
 
