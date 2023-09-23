@@ -1,6 +1,6 @@
 # 01 -
 
-## SECTION 01 - <br>
+## SECTION 20 - PREPARING FOR THE EXAM <br>
 
 ### < AWS: CLOUD PRACTIONER ><br>
 
