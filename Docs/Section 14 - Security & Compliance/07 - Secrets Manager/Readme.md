@@ -2,7 +2,7 @@
 
 ## SECTION 14 - SECURITY & COMPLIANCE <br>
 
-### < AWS: CLOUD PRACTIONER ><br>
+### < AWS: CLOUD PRACTITIONER > <br>
 
 ### 09/22/2023 <br>
 

@@ -2,7 +2,7 @@
 
 ## SECTION 20 - PREPARING FOR THE EXAM <br>
 
-### < AWS: CLOUD PRACTIONER ><br>
+### < AWS: CLOUD PRACTITIONER > <br>
 
 ### 09/22/2023 <br>
 

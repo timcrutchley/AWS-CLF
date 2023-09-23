@@ -2,7 +2,7 @@
 
 ## SECTION 17 - ADVANCED IDENTITY <br>
 
-### < AWS: CLOUD PRACTIONER ><br>
+### < AWS: CLOUD PRACTITIONER > <br>
 
 ### 09/22/2023 <br>
 

@@ -2,7 +2,7 @@
 
 ## SECTION 19 - AWS ARCHITECTING & ECOSYSTEM <br>
 
-### < AWS: CLOUD PRACTIONER ><br>
+### < AWS: CLOUD PRACTITIONER > <br>
 
 ### 09/22/2023 <br>
 
