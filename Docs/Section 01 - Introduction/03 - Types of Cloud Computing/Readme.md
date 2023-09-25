@@ -1,10 +1,10 @@
-# 01 -
+# 03 - TYPES OF CLOUD COMPUTING
 
 ## SECTION 01 - INTRODUCTION <br>
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/24/2023 <br>
 
 <br>
 
