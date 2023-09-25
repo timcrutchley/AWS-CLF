@@ -1,4 +1,4 @@
-# SECTION 01 -
+# SECTION 01 - INTRODUCTION
 
 ## **START: `09/22/23` END: `0//23`**
 
@@ -16,12 +16,12 @@
 
 ## LESSONS: >>
 
-**01 - [TRADITIONAL IT OVERVIEW]() - `09/22/23`**<br>
+**01 - [TRADITIONAL IT OVERVIEW]() - `09/23/23`**<br>
 <br>
 
 <br>
 
-**02 - [WHAT IS CLOUD COMPUTING]() - `09/22/23`**<br>
+**02 - [WHAT IS CLOUD COMPUTING]() - `09/24/23`**<br>
 <br>
 
 <br>
