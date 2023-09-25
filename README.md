@@ -20,7 +20,7 @@ Study in-depth everything there is to know about Cloud Practioner.
 
 <br>
 
-**Section 01** - [INTRODUCTION]() - `Start: 09/06/23 End: 09/06/23`<br>
+**Section 01** - [INTRODUCTION]() - `Start: 09/22/23 End: 09//23`<br>
 
 <br>
 <br>
