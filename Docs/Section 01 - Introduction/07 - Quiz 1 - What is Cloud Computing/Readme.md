@@ -133,7 +133,7 @@
         - One or more discrete data centers
         - Three or more Availability Zones
         </summary>
-        AWS Regions consist of multiple, isolated and physically seperate Availability Zones within a geographic area
+        AWS Regions consist of multiple, isolated and physically separate Availability Zones within a geographic area
 </details>
 
 <br>
@@ -187,7 +187,7 @@
 
 <details>
         <summary>
-        A company wouuld like to benefit from the advantages of the Public Cloud but would like to keep snesitive assets in its own infrastructure. Which deployment model should the company use?
+        A company would like to benefit from the advantages of the Public Cloud but would like to keep sensitive assets in its own infrastructure. Which deployment model should the company use?
         - Private Cloud
         - Public Cloud
         - Hybrid Cloud
