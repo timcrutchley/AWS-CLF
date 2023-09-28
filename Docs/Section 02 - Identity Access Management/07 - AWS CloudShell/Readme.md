@@ -4,38 +4,20 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/28/2023 <br>
 
 <br>
 
-### >>
+### PURPOSE OF CLOUDSHELL >>
 
+Cloudshell is designed to provide a robust alternative to using the terminal to access AWS outside the management console.
 <br>
 
-### >>
+### CLOUDSHELL FEATURES >>
 
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
+- Easy to use - no extra credentials to manage/setup
+- Ability to upload and download files
+- Can have multiple cloudshell tabs open
+- Terminal customization options (rows & columns format)
+- Session restoer
+  <br>
