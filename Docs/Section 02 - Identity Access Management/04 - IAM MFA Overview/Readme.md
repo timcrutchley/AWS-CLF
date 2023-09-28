@@ -67,23 +67,3 @@ In AWS you can setup a password policy:
 - Provided by SurePassID (3rd party)
 
 <br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
