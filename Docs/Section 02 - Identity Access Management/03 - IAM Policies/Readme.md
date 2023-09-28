@@ -25,3 +25,8 @@
 - **Resource:** list of resources to which the actions applied to
 - **Condition:** conditions for when this policy is in effect (optional)
   <br>
+
+### HOW TO ATTACH POLICIES
+
+- Policies can be directly attached to users
+- Policies can be auto-assigned when add a user to a group
