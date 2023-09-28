@@ -4,38 +4,20 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/28/2023 <br>
 
 <br>
 
-### >>
+### INSTALL AWS CLI >>
 
-<br>
+[Install or update the latest version of the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
-### >>
+Make sure it's **version 2** installing
 
-<br>
+Verify installed correctly with:
 
-### >>
+`aws --version`
 
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
+This process is virtually the same on Mac & Linux with small differences.
 
 <br>
