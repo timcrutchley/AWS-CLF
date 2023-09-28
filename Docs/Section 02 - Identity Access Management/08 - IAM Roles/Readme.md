@@ -4,38 +4,24 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/28/2023 <br>
 
 <br>
 
-### >>
+### IAM ROLES & SERVICES >>
+
+Some AWS service will need to perform actions on your behalf
 
 <br>
 
-### >>
+To do so, we will asign permissions to AWS services with **IAM Roles**
 
 <br>
 
-### >>
+Common roles:
 
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
+- EC2 Instance Roles
+- Lambda Function Roles
+- Roles for CloudFormation
 
 <br>
