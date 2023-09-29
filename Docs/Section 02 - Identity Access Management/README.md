@@ -31,47 +31,47 @@ Users may only use the services they have permission to use, and these permissio
 
 <br>
 
-**04 - [IAM - MFA OVERVIEW]() - `09/28/23`**<br>
+**04 - [IAM - MFA OVERVIEW]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**05 - [AWS ACCESS KEYS, CLI & SDK]() - `09/28/23`**<br>
+**05 - [AWS ACCESS KEYS, CLI & SDK]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**06 - [AWS CLI]() - `09/28/23`**<br>
+**06 - [AWS CLI]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**07 - [AWS CLOUDSHELL]() - `09/28/23`**<br>
+**07 - [AWS CLOUDSHELL]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**08 - [IAM ROLES]() - `09/28/23`**<br>
+**08 - [IAM ROLES]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**09 - [IAM SECURITY TOOLS]() - `09/28/23`**<br>
+**09 - [IAM SECURITY TOOLS]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**10 - [IAM BEST PRACTICES]() - `09/28/23`**<br>
+**10 - [IAM BEST PRACTICES]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**11 - [SHARED RESPONSIBILITY]() - `09/28/23`**<br>
+**11 - [SHARED RESPONSIBILITY]() - `09/28/2023`**<br>
 <br>
 
 <br>
 
-**12 - [QUIZ 2 - IDENTITY & ACCESS MANAGEMENT]() - `09/28/23`**<br>
+**12 - [QUIZ 2 - IDENTITY & ACCESS MANAGEMENT]() - `09/28/2023`**<br>
 <br>
 
 <br>

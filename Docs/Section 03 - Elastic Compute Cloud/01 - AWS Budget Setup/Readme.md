@@ -4,38 +4,17 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/29/2023 <br>
 
 <br>
 
-### >>
+### BUDGET SETUP >>
 
-<br>
+In order to reduce unecessary spending, setting up budgets is imperative.
 
-### >>
+If the goal is to never leave the free tier, or spend as little as possible, it is advised to set up two budgets;
 
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
+- Zero-Spend Budget
+- Monthly Cost Budget
 
 <br>

@@ -1,6 +1,6 @@
 # SECTION 03 - ELASTIC COMPUTE CLOUD
 
-## **START: `0//23` END: `0//23`**
+## **START: `09/29/2023` END: `0//2023`**
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
@@ -16,17 +16,17 @@
 
 ## LESSONS: >>
 
-**01 - [AWS BUDGET SETUP]() - `0//2023`**<br>
+**01 - [AWS BUDGET SETUP]() - `09/29/2023`**<br>
 <br>
 
 <br>
 
-**02 - [EC2 BASICS]() - `0//2023`**<br>
+**02 - [EC2 BASICS]() - `09/29/202023`**<br>
 <br>
 
 <br>
 
-**03 - [CREATE EC2 INSTANCE]() - `0//2023`**<br>
+**03 - [CREATE EC2 INSTANCE]() - `0//202023`**<br>
 <br>
 
 <br>
