@@ -8,6 +8,12 @@
 
 <br>
 
+### !--IMPORTANT NOTE--! >>
+
+Anytime a 'timeout' (page hangs, doesn't load) is encountered when trying to establish any kind of connection into EC2 instances.. it is 100% caused by an EC2 Security Group.
+
+Go and check the Security Group rules to make suare there are no issues.
+
 ### INTRODUCTION TO SECURITY GROUPS >>
 
 Security Groups are the fundamental the fundamental of network security in AWS
