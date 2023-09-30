@@ -4,38 +4,11 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/30/2023 <br>
 
 <br>
 
-### >>
+### PURPOSE >>
 
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
+EC2 Instance Connect is an in-browser alternative to SSH using a desktop command line shell.
 <br>
