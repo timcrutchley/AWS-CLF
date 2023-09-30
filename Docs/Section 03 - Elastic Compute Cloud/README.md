@@ -21,12 +21,12 @@
 
 <br>
 
-**02 - [EC2 BASICS]() - `09/29/202023`**<br>
+**02 - [EC2 BASICS]() - `09/29/2023`**<br>
 <br>
 
 <br>
 
-**03 - [CREATE EC2 INSTANCE]() - `0//202023`**<br>
+**03 - [CREATE EC2 INSTANCE]() - `09/29/2023`**<br>
 <br>
 
 <br>

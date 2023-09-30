@@ -37,19 +37,3 @@ If an instance is stopped and start back up, there is a chance AWS will change t
 
 **The private IP IPv4 however, does NOT change.**
 <br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
