@@ -8,117 +8,125 @@
 
 <br>
 
-### INTRODUCTION TO SECURITY GROUPS >>
+### EC2 INSTANCE TYPES - OVERVIEW >>
 
-Security Groups are the fundamental the fundamental of network security in AWS
-
-<br>
-
-They control how traffic is allowed into or out of our EC2 Instances
+You can use different types of EC2 instances that are optimized for different user cases
 
 <br>
 
-Security groups only contain **allow** rules
+AWS has the following naming convention:
 
 <br>
 
-Security groups rules can be referenced by IP or by security group
+**m6.x2xlarge**
 
 <br>
 
-### SECURITY GROUPS DEEPER DIVE >>
-
-Security groups act as a "firewall" for EC2 instances
-
-They regulate:
-
-- Access to Ports
-- Authorized IP ranges - IPv4 and IPv6
-- Control of inbound network (from other to the instance)
-- Control of outbound network (from the instance to the other)
+m: instance class
+5: generation (AWS improved them over time)
+2xlarge: size within the instance class
 
 <br>
 
-### SECURITY GROUPS DIAGRAM >>
+[Instance Types](htttps://aws.amazon.com/ec2/instance-types/)
+
+<br>
+
+General Purpose
+Compute Optimized
+Memory Optimized
+Accelerated Computing
+Storage Optimized
+Instance Features
+Measuring Instance Performance
+
+<br>
+
+### !- GENERAL PURPOSE -! >>
+
+Great for a diversity of workloads such as web servers or code repositories
+
+<br>
+
+Balance between:
+
+- Compute
+- Memory
+- Networking
+
+<br>
+
+For this course, **t2.micro** will be utilized, which is a General Purpose EC2 instance
+
+<br>
+
+**General Purpose:** [Typically tart with "T"]
+General purposes instances provide a balance of compute, memory and networking resources, and can be used for a variety of diverse workloads. The instances are ideal for applications that use resources in equal proportions such as web servers and code repositories
+
+<br>
+
+### COMPUTE OPTIMIZED >>
+
+Great for compute-intensive tasks that require high performance processors:
+
+- Batch processing workloads
+- Media transcoding
+- High performance web servers
+- High performance computing (HPC)
+- Scientific modeling & machine learning
+- Dedicated gaming servers
+
+**Compute Optimized:** [Typically tart with "C"]
+Compute Optimized instances are ideal for compute bound applications that benefit from high performance processors, instances belonging to this family are well suited for batch processing workloads, media transcoding, high performance web servers, high performance computing (HPC) scientific modeling, dedicated gaming servers and ad server engines, machine learning inference and other compute intense applications
+<br>
+
+### MEMORY OPTIMIZED >>
+
+Fast performance for workloads that process large data sets in memory
+Use cases:
+
+- High performance, relational/non-relational databases
+- Distributed web scale cache stores
+- In-memory databases optimized for BI (business intelligence)
+- Applications performing real-time processsing of big unstructured data
+
+**Memory Optimized:** [Typically tart with "R"]
+Memory optimized instances are designed to deliver fast performance for workloads that process large data sets in memory
+<br>
+
+### STORAGE OPTIMIZED >>
+
+Great for storage-intensive tasks that require high, sequential read and write access to large data sets on local storage
+
+Use cases
+
+- High frequency online transaction processing (OLTP) systems
+- Relational & NoSQL databases
+- Cache for in-memory databases (for exmaple, Redis)
+- Data warehousing applications
+- Distributed file systems
+
+**Storage Optimized:** [Typically tart with "D"]
+Storage optimized instances are designed for workloads that require high, sequential read and write access to very large data sets on local storage. They are optimized to devliver thousands of low-latency, random I/O operations per seconds (IOPS) to applications
+<br>
+
+### EC2 INSTANCE TYPES: EXAMPLE >>
 
 ```
-_________________
-  <---------------------- Security Group 1 --------------Port-22--------- Your Computer - IP XX.XX.XX
-                |              Inbound                                    (authorized port 22)
-                |    Filter IP / Port with Rules <-------Port-22---------       Other Computer
-                |                                                         (not authorized port 22)
-EC2 Instance    |
-IP XX.XX.XX.XX  |
-  ----------------------- Security Group 1 --------------Any-Port-------->          WWW
-                |            Outbound                                        Any IP - Any Port
-________________|    Filter IP / Port with Rules
-
+Instance      vCPU       Mem(GiB)     Storage      Network Performance        EBS Bandwidth (Mbps)
+t2.micro       1            1         EBS-Only      Low to Moderate
+t2.xlarge      4           16         EBS-Only          Moderate
+c5d.4xlarge   16           32      1x400 NVMe SSD     Up to 10 Gbps                4,750
+r5.16xlarge   64          512         EBS-Only          20 Gbps                   13,600
+m5.8xlarge    32          128         EBS-Only          10 Gbps                    6,800
 ```
 
 <br>
 
-### SECURITY GROUPS BASICS >>
-
-Can be attached to multiple instances
+**t2.micro is part of the AWS free tier (up to 750 hours per month)**
 
 <br>
 
-Locked down to a region / VPC combination
+For more information on EC2 Instances visit [**Vantage**](https://instances.vantage.sh/)
 
-<br>
-
-Does live "outside" the EC2 - if traffic is blocked the EC2 instance won't see it
-
-<br>
-
-**It's good to maintain one seperate security group for SSH access**
-
-<br>
-
-If your application is not accessible (time out), then it's a security group issue
-
-<br>
-
-If your application gives a "connection refused" error, then it's an application error or it's not launched
-
-<br>
-
-All **inbound** is **blocked** by default
-
-<br>
-
-All **outbound** traffic is **authorized** by default
-
-<br>
-
-### REFERENCING OTHER SECURITY GROUPS DIAGRAM >>
-
-```
-_________________
-  <---------------------------------------------Port123---------[Security Group 2]        EC2 Instance
-                |                                                   (attached)             IP XX.XX.XX
-                |
-                |
-                |       Security Group 1
-EC2 Instance    |             Inbound
-IP XX.XX.XX.XX  |   Auhorizing Security Group 1
-  <---------------------------------------------Port123---------[Security Group 1]        EC2 Instance
-                |   Auhorizing Security Group 2                     (attached)             IP XX.XX.XX
-                |
-                |
-                |
-                |                                                [Security Group 3]       EC2 Instance
-________________|        Not authorized                             (attached)             IP XX.XX.XX
-```
-
-<br>
-
-### MUST KNOW PORTS >>
-
-**22:** SSH (Secure Shell) - log into a Linux instance
-**21:** FTP (File Transfer Protocol) - upload files into a file share
-**22:** SFTP (Secure File Transfer Protocol) - upload files using SSH
-**80:** HTTP - access unsecured websites
-**443:** HTTPS - access secured websites
-**3389:** RDP (Remote Desktop Protocol) - log into a Windows instance
 <br>
