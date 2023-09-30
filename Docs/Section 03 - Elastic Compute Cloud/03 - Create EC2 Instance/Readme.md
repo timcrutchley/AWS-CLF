@@ -37,3 +37,8 @@ If an instance is stopped and start back up, there is a chance AWS will change t
 
 **The private IP IPv4 however, does NOT change.**
 <br>
+
+### INSTANCE INFO >>
+
+For more information on EC2 Instances visit [**Vantage**](https://instances.vantage.sh/)
+<br>
