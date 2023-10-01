@@ -4,7 +4,7 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/30/2023 <br>
 
 <br>
 
@@ -15,32 +15,4 @@
 If this is done, anyone else who logs into that instance using EC2 Connect could retrieve your personal keys.
 
 **INSTEAD** assign roles to the EC2 instance for specific services (like IAMreadonlyaccess)
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
 <br>
