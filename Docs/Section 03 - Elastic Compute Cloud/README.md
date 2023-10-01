@@ -1,17 +1,14 @@
 # SECTION 03 - ELASTIC COMPUTE CLOUD
 
-## **START: `09/29/2023` END: `0//2023`**
+## **START: `09/29/2023` END: `10/01/2023`**
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
 <br>
 
-### >>
+### ELASTIC CLOUD COMPUTE OVERVIEW >>
 
-<br>
-
-### >>
-
+EC2 are the servers that provide essential needs, such as **Compute**, **Memory**, **Storage**
 <br>
 
 ## LESSONS: >>
@@ -31,47 +28,47 @@
 
 <br>
 
-**04 - [EC2 INSTANCE TYPES BASICS]() - `0//2023`**<br>
+**04 - [EC2 INSTANCE TYPES BASICS]() - `09/30/2023`**<br>
 <br>
 
 <br>
 
-**05 - [SECURITY GROUPS & CLASSIC PORTS]() - `0//2023`**<br>
+**05 - [SECURITY GROUPS & CLASSIC PORTS]() - `09/30/2023`**<br>
 <br>
 
 <br>
 
-**06 - [SSH]() - `0//2023`**<br>
+**06 - [SSH]() - `09/30/2023`**<br>
 <br>
 
 <br>
 
-**07 - [EC2 INSTANCE CONNECT]() - `0//2023`**<br>
+**07 - [EC2 INSTANCE CONNECT]() - `09/30/2023`**<br>
 <br>
 
 <br>
 
-**08 - [EC2 INSTANCE ROLES]() - `0//2023`**<br>
+**08 - [EC2 INSTANCE ROLES]() - `09/30/2023`**<br>
 <br>
 
 <br>
 
-**09 - [EC2 INSTANCE PURCHASING OPTIONS]() - `0//2023`**<br>
+**09 - [EC2 INSTANCE PURCHASING OPTIONS]() - `09/30/2023`**<br>
 <br>
 
 <br>
 
-**10 - [SHARED REPSONSIBILITY FOR EC2]() - `0//2023`**<br>
+**10 - [SHARED REPSONSIBILITY FOR EC2]() - `10/01/2023`**<br>
 <br>
 
 <br>
 
-**11 - [EC2 SUMMARY]() - `0//2023`**<br>
+**11 - [EC2 SUMMARY]() - `10/01/2023`**<br>
 <br>
 
 <br>
 
-**12 - [QUIZ 3 - EC2]() - `0//2023`**<br>
+**12 - [QUIZ 3 - EC2]() - `10/01/2023`**<br>
 <br>
 
 <br>
