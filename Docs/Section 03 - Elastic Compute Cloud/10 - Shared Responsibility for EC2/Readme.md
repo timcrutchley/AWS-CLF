@@ -4,38 +4,24 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 09/30/2023 <br>
 
 <br>
 
-### >>
+### SHARED RESPONSIBILITY MODEL FOR EC2 >>
 
-<br>
+**AWS Responsible For:**
 
-### >>
+- Infrastructure (global network security)
+- Isolation on physical hosts
+- Replacing faulty hardware
+- Compliance validation
 
-<br>
+**You are Responsible For:**
 
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
+- Security Groups rules
+- Operating-system patches and updates
+- Software and utilities installed on the EC2 instance
+- IAM Roles assigned to EC2 & IAM user access management
+- Data security on your instance
+  <br>
