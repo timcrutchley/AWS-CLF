@@ -8,8 +8,13 @@
 
 <br>
 
-### >>
+### !-IMPORTANT NOTE-! >>
 
+**Never ever ever enter personal access key details into an EC2 instance through SSH/aws configure.**
+
+If this is done, anyone else who logs into that instance using EC2 Connect could retrieve your personal keys.
+
+**INSTEAD** assign roles to the EC2 instance for specific services (like IAMreadonlyaccess)
 <br>
 
 ### >>
