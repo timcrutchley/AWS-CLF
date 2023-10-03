@@ -1,41 +1,36 @@
-# 01 -
+# 02 - EBS SNAPSHOT
 
 ## SECTION 04 - EC2 INSTANCE STORAGE<br>
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 10/02/2023 <br>
 
 <br>
 
-### >>
+### EBS SNAPSHOTS >>
+
+Make a backup (snapshot) of your EBS volume at a point in time
 
 <br>
 
-### >>
+Not necessary to detach volume to do snapshot, but recommended
 
 <br>
 
-### >>
+Can copy snapshots across AZ or Region
 
 <br>
 
-### >>
+### EBS SNAPSHOTS FEATURES >>
 
-<br>
+**EBS Snapshot Archive**
 
-### >>
+- Move a Snapshot to an "archive tier" that is 75% cheaper
+- Takes 24 to 72 hours for restoring the archive
 
-<br>
+**Recycle Bin for EBS Snapshots**
 
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
+- Setup rules to retain deleted snapshots so you can recover them after an accidental deletion
+- Specify retention (from 1 day to 1 year)
+  <br>
