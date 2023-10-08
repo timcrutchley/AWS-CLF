@@ -45,6 +45,9 @@ In order to create an AMI:
 1. 'Launch Instance'
 2. Copy User Data over (be sure not to create index file)
 3. The instance may take a while (2-3 minutes) to be fully operational AND run the script. Even if it says running, may take longer.
+4. In Instances right click on the new instance, Images > Create Image
+5. Give it a name, click create
+6. On the left toolbar, click "AMIs" to view
 
 <br>
 
