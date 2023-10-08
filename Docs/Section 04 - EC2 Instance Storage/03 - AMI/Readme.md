@@ -40,6 +40,12 @@ Launch instances from other AMIs
 
 ### AMI CREATION DETAILS >>
 
+In order to create an AMI:
+
+1. 'Launch Instance'
+2. Copy User Data over (be sure not to create index file)
+3. The instance may take a while (2-3 minutes) to be fully operational AND run the script. Even if it says running, may take longer.
+
 <br>
 
 ### >>
