@@ -1,9 +1,6 @@
 # 03 - AMI
-
 ## SECTION 04 - EC2 INSTANCE STORAGE<br>
-
 ### < AWS: CLOUD PRACTITIONER > <br>
-
 ### 10/07/2023 <br>
 
 <br>
@@ -51,22 +48,22 @@ In order to create an AMI:
 
 <br>
 
-### >>
+### LAUNCHING INSTANCES FROM AMI >>
+
+1. From the AMI page, when selected:
+2. Click "Launch Instance from AMI"
+3. OR Go to Instances
+4. Create Instance
+5. Under "Application & OS Image" rather than choosing a server;
+6. Click "My AMIs" tab
+7. Select the image that was previously created
+8. In **Advanced** scroll down to **User Data Info**
+9. When launching from an AMI, no need to relaunch HTTP as the AMI used already contains http
 
 <br>
 
-### >>
+### WHAT IS THE PURPOSE OF AMIs >>
 
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
+To create instances with preloaded settings and software, such as HTTP and security software
+To drastically improve instance creation time
 <br>
