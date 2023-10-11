@@ -4,38 +4,16 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 10/10/2023 <br>
 
 <br>
 
-### >>
+### CLEANUP >>
 
-<br>
+In order to avoid unecessary charges:
 
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
-<br>
-
-### >>
-
+1. Delete AMI
+2. Terminate Instances
+3. Delete Volumes
+4. Delete Snapshots
 <br>
