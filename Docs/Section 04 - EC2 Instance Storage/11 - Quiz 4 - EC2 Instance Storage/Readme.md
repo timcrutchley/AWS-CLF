@@ -84,7 +84,7 @@
 
 <details>
     <summary>
-    An EBS Volume is a network drive you can attach to your instances while they run, so your instances' data persist even after their termination?
+    An EBS Volume is a network drive you can attach to your instances while they run, so your instances' data persists even after their termination?
       - True
       - False
     </summary>
