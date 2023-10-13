@@ -4,7 +4,7 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 10/10/2023 <br>
+### 10/12/2023 <br>
 
 <br>
 
@@ -52,18 +52,22 @@ High availability means running your application / system in at least 2 Availabi
 The goal of high availability is to survive a data center loss (disaster)
 <br>
 
-### >>
+### HIGH AVAILABILITY & SCALABILITY FOR EC2 >>
+
+Vertical Scaling: Increase instance size (= scale up / down)
+  - From: t2.nano - 0.5G of RAM, I vCPU
+  - To:u-12tb1.metal - 12.3TB of RAM, 448 vCPUs
+
+Horizontal Scaling: Increase number of instances (= scale out / in)
+
 
 <br>
 
-### >>
+### SCALABILITY VS ELASTICITY (VS AGILITY) >>
 
-<br>
+**SCALABILITY:** Ability to accomodate a larger load by making the hardware stronger (scale up), or by adding nodes (scale out)
 
-### >>
+**ELASTICITY:** Once a system is scalable, elasticity means that there will be some "auto-scaling" so that the system can scale based on the loead. This is "cloud-friendly": pay-per-use, match demand, optimize costs
 
-<br>
-
-### >>
-
+**AGILITY: (not related scalability - distractor)** new IT resources are only a click away, which means that you reduce the time it takes to make those resources available to your developers from weeks to just minutes.
 <br>
