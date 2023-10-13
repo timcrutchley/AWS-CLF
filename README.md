@@ -4,11 +4,12 @@
 
 <br>
 
+
 ### OBJECTIVE >>
 
 Study in-depth everything there is to know about Cloud Practioner.
 
-**GOAL: Complete exam by December 1st, 2023**
+**GOAL: Complete the exam by December 1st, 2023**
 
 <br>
 
