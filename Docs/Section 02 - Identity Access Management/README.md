@@ -1,6 +1,8 @@
 # SECTION 02 - IDENTITY ACCESS MANAGEMENT
 
-## **START: `09/25/23` END: `09/28/23`**
+## **START: `09/25/23` END: `09/28/23`** <br>
+
+### Completed Review : 06/06/2024 <br>
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
