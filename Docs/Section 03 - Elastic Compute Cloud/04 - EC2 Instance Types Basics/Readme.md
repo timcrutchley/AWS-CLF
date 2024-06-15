@@ -6,6 +6,8 @@
 
 ### 09/30/2023 <br>
 
+### 06/14/2024 : Reviewed <br>
+
 <br>
 
 ### EC2 INSTANCE TYPES - OVERVIEW >>
