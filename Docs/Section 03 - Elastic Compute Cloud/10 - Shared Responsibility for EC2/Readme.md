@@ -6,6 +6,8 @@
 
 ### 10/01/2023 <br>
 
+### 06/19/2024 : Reviewed <br>
+
 <br>
 
 ### SHARED RESPONSIBILITY MODEL FOR EC2 >>
