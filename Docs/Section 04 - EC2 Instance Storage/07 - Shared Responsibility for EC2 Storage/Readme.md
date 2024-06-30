@@ -5,6 +5,7 @@
 ### < AWS: CLOUD PRACTITIONER > <br>
 
 ### 10/09/2023 <br>
+### 06/29/2024 : Reviewed <br>
 
 <br>
 
