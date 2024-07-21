@@ -6,9 +6,17 @@
 
 ### 10/09/2023 <br>
 
+### 07/21/2024 : Reviewed <br>
+
 <br>
 
 ### AMAZON FSX - OVERVIEW >>
+
+### !- REMEMBER -! 
+
+TWO FLAVORS:
+Amazon FSx for Windows File Server
+Amazon FSx for Lustre (Linux Cluster)
 
 Launch 3rd party high-performance file systems on AWS
 
