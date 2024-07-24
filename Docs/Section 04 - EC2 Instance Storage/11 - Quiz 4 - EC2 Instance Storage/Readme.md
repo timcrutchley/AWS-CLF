@@ -2,6 +2,7 @@
 ## SECTION 04 - EC2 INSTANCE STORAGE<br>
 ### < AWS: CLOUD PRACTITIONER > <br>
 ### 10/10/2023 <br>
+### 07/22/2024 : Reviewed <br>
 
 
 <br>
