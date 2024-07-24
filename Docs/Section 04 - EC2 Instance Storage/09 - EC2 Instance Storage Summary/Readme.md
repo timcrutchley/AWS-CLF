@@ -6,6 +6,8 @@
 
 ### 10/09/2023 <br>
 
+### 07/22/2024 : Reviewed <br>
+
 <br>
 
 ### EC2 INSTANCE STORAGE - SUMMARY >>
