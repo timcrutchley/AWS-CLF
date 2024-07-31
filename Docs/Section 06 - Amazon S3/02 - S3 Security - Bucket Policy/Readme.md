@@ -4,7 +4,7 @@
 
 ### < AWS: CLOUD PRACTITIONER > <br>
 
-### 09/22/2023 <br>
+### 07/30/2024 <br>
 
 <br>
 
