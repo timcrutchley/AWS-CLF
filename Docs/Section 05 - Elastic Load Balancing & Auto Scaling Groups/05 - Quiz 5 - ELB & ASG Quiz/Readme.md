@@ -13,7 +13,7 @@
 
 <details>
     <summary>
-    Question?
+    What is the purpose of high availability in the cloud?
       - answer 1
     </summary>
   Answer
