@@ -14,10 +14,10 @@
 <details>
     <summary>
     What is the purpose of high availability in the cloud?
-      - Increased Scalability
-      - Application thriving even in case of disaster
-      - Access on computers and smart phones
-      - Handle greater loads by launching EC2 instances based on demand
+      - Increased Scalability<br>
+      - Application thriving even in case of disaster<br>
+      - Access on computers and smart phones<br>
+      - Handle greater loads by launching EC2 instances based on demand<br>
     </summary>
   Application thriving even in case of disaster.
 </details>
@@ -29,9 +29,9 @@
 <details>
     <summary>
     Which AWS offered load balancer should you use to handle hundreds of thousands of connections with low latency?
-      - Application Load Balancer
-      - Network Load Balancer
-      - Elastic Load Balancer
+      - Application Load Balancer<br>
+      - Network Load Balancer?<br>
+      - Elastic Load Balancer<br>
     </summary>
   A network load balancer can handle millions of requests per second with low latency. It operates at Layer 4, and is best suited for load-balancing TCP, UDP and TLS traffic with ultra high performance.
 </details>
