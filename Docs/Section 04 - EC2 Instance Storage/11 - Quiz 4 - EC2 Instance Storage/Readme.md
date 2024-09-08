@@ -11,12 +11,14 @@
 
 <details>
     <summary>
-    Which EC2 Storage would you use to create a shared network file system for your EC2 Instances?
-      - EBS Volume
-      - EC2 Instance Store
-      - EBS Snapshots
-      - EFS
+    Which EC2 Storage would you use to create a shared network file system for your EC2 Instances? <br>
+      - EBS Volume <br>
+      - EC2 Instance Store <br>
+      - EBS Snapshots <br>
+      - EFS <br>
     </summary>
+<br>
+Answer:<br>
   Amazon EFS is a fully managed service that makes it easy to set up, scale, and cost-optimize file storage in the Amazon Cloud.
 </details>
 
