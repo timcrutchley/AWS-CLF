@@ -64,10 +64,17 @@ Vertical scaling means increasing the size of the instance. Changing from a t3a.
 
 <details>
     <summary>
-    Question?
-      - answer 1
+    What can you use to handle quickly and automatically the changing load on your websites and applications by adding compute resources?
+<br>
+      - An Elastic Load Balance <br>
+      - A bigger instance Type <br>
+      - An Auto Scaling Group <br>
+      - Health Checks on your EC2 Instances <br>
     </summary>
-  Answer
+<br>
+Answer:<br>
+An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out to match the changing load on your applications and websites.
+  
 </details>
 
 <br>
