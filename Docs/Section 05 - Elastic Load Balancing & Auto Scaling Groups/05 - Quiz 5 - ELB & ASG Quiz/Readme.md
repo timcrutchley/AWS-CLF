@@ -1,4 +1,4 @@
-# 01 -
+# 05 - ELB & ASG QUIZ
 
 ## SECTION 05 - ELASTIC LOAD BALANCING & AUTO SCALING GROUPS <br>
 
@@ -72,7 +72,7 @@ Vertical scaling means increasing the size of the instance. Changing from a t3a.
       - Health Checks on your EC2 Instances <br>
     </summary>
 <br>
-Answer:<br>
+#### Answer:<br>
 An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out to match the changing load on your applications and websites.
   
 </details>
@@ -83,10 +83,15 @@ An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out
 
 <details>
     <summary>
-    Question?
-      - answer 1
+    Which of the following statements in INCORRECT regarding Auto Scaling Groups?
+<br>
+      - Replace unhealthy instances<br>
+      - Are cost-effective by running at optimal capacity<br>
+      - Automatically register new instances to a load balancer<br>
+      - Automatically changing the EC2 Instance types<br>
     </summary>
-  Answer
+<br>
+  #### Answer:
 </details>
 
 <br>
