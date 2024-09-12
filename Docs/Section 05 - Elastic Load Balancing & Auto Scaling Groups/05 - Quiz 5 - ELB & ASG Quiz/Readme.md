@@ -72,7 +72,7 @@ Vertical scaling means increasing the size of the instance. Changing from a t3a.
       - Health Checks on your EC2 Instances <br>
     </summary>
 <br>
-#### Answer:<br>
+Answer:<br>
 An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out to match the changing load on your applications and websites.
   
 </details>
@@ -91,7 +91,8 @@ An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out
       - Automatically changing the EC2 Instance types<br>
     </summary>
 <br>
-  #### Answer:
+Answer:<br>
+
 </details>
 
 <br>
@@ -101,10 +102,15 @@ An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out
 
 <details>
     <summary>
-    Question?
-      - answer 1
+    What load balancer is best suited for HTTP/HTTPS load balancing traffic?<br>
+      - Network Load Balancer<br>
+      - Classic Load Balancer<br>
+      - Elastic Load Balancer<br>
+      - Application Load Balancer<br>
     </summary>
-  Answer
+  <br>
+Answer:<br>
+Application Load Balancers are used for HTTP and HTTPS load balancing. They are the best suited for this kind of traffic.<br>
 </details>
 
 <br>
