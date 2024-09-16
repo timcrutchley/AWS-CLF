@@ -120,10 +120,16 @@ Application Load Balancers are used for HTTP and HTTPS load balancing. They are 
 
 <details>
     <summary>
-    Question?
-      - answer 1
+    Which of the following is NOT an Auto Scaling Strategy?<br>
+      - Manual Scaling<br>
+      - Dynamic Scaling<br>
+      - Active Scaling<br>
+      - Predictive Scaling<br>
     </summary>
-  Answer
+  <br>
+  Answer:<br>
+  Active Scaling is not a Scaling Strategy. Auto Scaling Strategies include: Manual Scaling, Dynamic Scaling (Simple/Step Scaling, Target Tracking Scaling, Scheduled Scaling), and Predictive Scaling.
+
 </details>
 
 <br>
