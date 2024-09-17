@@ -142,10 +142,15 @@ Application Load Balancers are used for HTTP and HTTPS load balancing. They are 
 
 <details>
     <summary>
-    Question?
-      - answer 1
+    Which AWS service offers easy horizontal scaling of compute capacity<br>
+      - EBS<br>
+      - AMI<br>
+      - IAM<br>
+      - ASG<br>
     </summary>
-  Answer
+    <br>
+  Answer:<br>
+Auto-Scaling Groups (ASG) offers the capacity to scale-out and scale-in by adding or removing services based on demand.
 </details>
 
 <br>
