@@ -163,10 +163,15 @@ Auto-Scaling Groups (ASG) offers the capacity to scale-out and scale-in by addin
 
 <details>
     <summary>
-    Question?
-      - answer 1
+    Which of the following statements is NOT a feature of Load Balancers?<br>
+      - Do regular health checks on your instances<br>
+      - Spread load across multiple downstream instances<br>
+      - Handle failures downstream of instances<br>
+      - Back-end AutoScaling<br>
     </summary>
-  Answer
+<br>
+  Answer:<br>
+Load Balancers cannot help with back-end autoscaling. You should use Auto Scaling Groups.
 </details>
 
 <br>
