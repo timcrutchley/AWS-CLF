@@ -92,6 +92,7 @@ An Auto Scaling Group (ASG) can automatically and quickly scale-in and scale-out
     </summary>
 <br>
 Answer:<br>
+Auto Scaling Groups can add or remove instances, but from the same type. They cannot change EC2 Instance Types on the fly.
 
 </details>
 
@@ -173,24 +174,5 @@ Auto-Scaling Groups (ASG) offers the capacity to scale-out and scale-in by addin
   Answer:<br>
 Load Balancers cannot help with back-end autoscaling. You should use Auto Scaling Groups.
 </details>
-
-<br>
-
-
-<br>
-
-
-### QUESTION 10 >>
-
-<details>
-    <summary>
-    Question?
-      - answer 1
-    </summary>
-  Answer
-</details>
-
-<br>
-
 
 <br>
