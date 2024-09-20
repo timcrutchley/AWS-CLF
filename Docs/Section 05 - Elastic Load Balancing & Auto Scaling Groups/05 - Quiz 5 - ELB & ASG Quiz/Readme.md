@@ -21,7 +21,7 @@
     </summary>
 <br>
 Answer:<br>
-  Application thriving even in case of disaster.
+  High availability means applications running in at least two AZs to survive data center loss.
 </details>
 
 <br>
