@@ -22,15 +22,15 @@ Many AWS services utilize Amazon S3 as an integration as well
 
 ### AMAZON S3 USE CASES >>
 
-Backup & Storage
-Disaster Recovery
-Archive
-Hybrid Cloud Storage
-Application Hosting
-Media Hosting
-Data Lakes & Big Data Analytics
-Software Delivery
-Static Website
+Backup & Storage<br>
+Disaster Recovery<br>
+Archive<br>
+Hybrid Cloud Storage<br>
+Application Hosting<br>
+Media Hosting<br>
+Data Lakes & Big Data Analytics<br>
+Software Delivery<br>
+Static Website<br>
 
 
 
